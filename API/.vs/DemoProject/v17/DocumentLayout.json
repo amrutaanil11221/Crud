@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\demoproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\demoproject\\service\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\service\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|c:\\users\\amruta\\onedrive\\desktop\\aa\\amrutaahirraoassignmentpma\\api\\demoproject\\context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\demoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\demoproject\\interface\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA06B7F-1D7C-49FE-8C80-457B64FFB269}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\interface\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Program.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Program.cs",
+              "RelativeToolTip": "DemoProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:16:34.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Service\\ProductServices.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Service\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Service\\ProductServices.cs",
+              "RelativeToolTip": "DemoProject\\Service\\ProductServices.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:11:19.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Context\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Context\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Context\\ProductDbContext.cs",
+              "RelativeToolTip": "DemoProject\\Context\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:11:10.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Interface\\IProductServices.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Interface\\IProductServices.cs",
+              "ToolTip": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Interface\\IProductServices.cs",
+              "RelativeToolTip": "DemoProject\\Interface\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:11:04.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Amruta\\OneDrive\\Desktop\\aa\\AmrutaAhirraoAssignmentPMA\\API\\DemoProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DemoProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAArwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:10:44.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
